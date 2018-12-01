@@ -27,4 +27,5 @@ var predefinedRules = map[string]string{
 	"treelobsters.com":       "add_image_title",
 	"youtube.com":            "add_youtube_video",
 	"xkcd.com":               "add_image_title",
+	"blabbermouth.net":       "convert_newlines_to_line_breaks",
 }
